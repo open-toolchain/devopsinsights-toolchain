@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**Ihre Toolchain steht bereit!**\n**Schnelleinstieg:** Konfigurieren Sie den Jenkins-Server, um Daten an DevOps Insights zu senden, wenn Jenkins Testjobs ausführt. Schrittweise Anleitungen bietet die [Bluemix-Dokumentation](https://console.ng.bluemix.net/docs/services/DevOpsInsights/jenkins_integration.html#toolchain_configure_jenkins)."

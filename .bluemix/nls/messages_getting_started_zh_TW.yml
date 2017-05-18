@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**您的工具鏈已備妥！**\n**快速入門：** 配置 Jenkins 伺服器，以在 Jenkins 執行測試工作時，將資料傳送至 DevOps Insights。如需逐步指示，請參閱 [Bluemix 文件](https://console.ng.bluemix.net/docs/services/DevOpsInsights/jenkins_integration.html#toolchain_configure_jenkins)。"
