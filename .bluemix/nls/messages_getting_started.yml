@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**Your toolchain is ready!**\n**Quick start:** Configure the Jenkins server to send data to DevOps Insights when Jenkins runs the test jobs. For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_dra?task=2)."

@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**¡Su cadena de herramientas está lista!**\n**Inicio rápido:** Configurar el servidor Jenkins para enviar datos a DevOps Insights cuando Jenkins ejecute los trabajos de prueba. Para obtener instrucciones detalladas paso a paso, consulte los [Documentos de Bluemix](https://console.ng.bluemix.net/docs/services/DevOpsInsights/jenkins_integration.html#toolchain_configure_jenkins)."

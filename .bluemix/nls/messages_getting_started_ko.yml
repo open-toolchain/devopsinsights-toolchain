@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**도구 체인이 준비되었습니다!**\n**빠른 시작:** Jenkins에서 테스트 작업을 실행할 때 DevOps Insights에 데이터를 보내도록 Jenkins 서버를 구성하십시오. 단계별 지시사항은 [Bluemix 문서](https://console.ng.bluemix.net/docs/services/DevOpsInsights/jenkins_integration.html#toolchain_configure_jenkins)를 참조하십시오."

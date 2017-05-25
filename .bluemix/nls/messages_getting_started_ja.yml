@@ -1,0 +1,2 @@
+---
+template.gettingStarted: "**ツールチェーンの準備ができました。**\n**クイック・スタート:** Jenkins がテスト・ジョブを実行するときに DevOps Insights にデータを送信するように Jenkins サーバーを構成します。ステップバイステップの説明については、[Bluemix の資料](https://console.ng.bluemix.net/docs/services/DevOpsInsights/jenkins_integration.html#toolchain_configure_jenkins)を参照してください。"
